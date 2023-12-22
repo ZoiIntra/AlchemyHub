@@ -51,5 +51,5 @@ if start_anttis then
     end)
 end
 if notertwitte then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyHub/main/Pasted"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyHub/main/PastedADC"))()
 end
