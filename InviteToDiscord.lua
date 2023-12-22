@@ -50,6 +50,4 @@ if start_anttis then
         return old(self, ...)
     end)
 end
-if notertwitte then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyHub/main/PastedADC"))()
-end
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyHub/main/PastedADC"))()
