@@ -48,3 +48,6 @@ if start_anttis then
         return old(self, ...)
     end)
 end
+if start_anttis then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZoiIntra/AlchemyHub/main/Pasted"))()
+end
