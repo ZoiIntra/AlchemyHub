@@ -2,7 +2,7 @@ local SlayerzUI_Notify = loadstring(game:HttpGet("https://raw.githubusercontent.
 local NameHub = "Alchemy Hub"
 local Description = "HAPPY NEW YEAR 2024 !!!"
 local Logo = "rbxassetid://14981376704"
-local Color = Color3.fromRGB(0, 255, 145)
+local Color = Color3.fromRGB(255, 247, 0)
 SlayerzUI_Notify:Notify(NameHub, Description, Logo, Color, 5)
 print("Success!")
 local start_anttis = false
